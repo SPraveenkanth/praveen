@@ -12,3 +12,6 @@ color: rgb(255, 0, 0);
 text-transform: capitalize;
 text-shadow: 5px red;
 }
+body{
+    background-color: black;
+}
